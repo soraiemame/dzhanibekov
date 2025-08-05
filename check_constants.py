@@ -4,7 +4,7 @@ from scipy.integrate import solve_ivp
 
 # 問題の設定
 w0 = [10.0,0.1,0.1] # ωの初期値
-t_span = [0.0,50.0]
+t_span = [0.0,20.0]
 eta = 1.5
 
 # 各種定数の設定
